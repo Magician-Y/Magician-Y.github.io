@@ -1,2 +1,2 @@
 # Magician-Y.github.io
-这个博客全是搬别人的
+内容来自https://testsling.github.io/
